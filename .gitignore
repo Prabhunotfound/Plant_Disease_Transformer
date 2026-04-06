@@ -1,0 +1,21 @@
+# Virtual environment (Matches the folder exactly)
+venv/
+
+# Data Folders
+dataset/
+Trash/
+features/
+catboost_info/
+
+# Images (Your dataset - matches these extensions in any directory)
+*.jpg
+*.png
+*.jpeg
+*.JPG 
+
+#Files 
+convnext_small.pth
+
+# Python cache
+__pycache__/
+*.pyc
