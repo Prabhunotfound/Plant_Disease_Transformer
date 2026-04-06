@@ -1,0 +1,12 @@
+torch
+torchvision
+catboost
+scikit-learn
+pandas
+numpy
+opencv-python
+matplotlib
+jupyter
+tqdm
+Pillow
+seaborn
