@@ -59,7 +59,7 @@ Plant_Disease_DAC_Project/
 
 ```bash
 git clone https://github.com/Prabhunotfound/Plant_Disease.git
-cd Plant_Disease
+cd Plant_Disease_Transformer
 ```
 
 ### 2. Create a Virtual Environment
