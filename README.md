@@ -58,7 +58,7 @@ Plant_Disease_DAC_Project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Prabhunotfound/Plant_Disease.git
+git clone https://github.com/Prabhunotfound/Plant_Disease_Transformer
 cd Plant_Disease_Transformer
 ```
 
